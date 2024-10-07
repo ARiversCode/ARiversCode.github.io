@@ -23,3 +23,6 @@ In fact, while testing one of the deployments, I stumbled upon something intrigu
 For now, I’m focusing on getting more involved in the CI/CD workflows, helping to automate tasks, and continuing to learn as much as I can about container security and deployment strategies. Every day feels like a new challenge, but I’m loving the opportunity to grow and contribute to the team.
 
 Looking forward to sharing more insights and lessons soon. Stay curious, and remember—don’t overlook the small stuff. 🔍
+<!---
+![A Picture of Stuff](https://r66-osint.s3.amazonaws.com/flag.txt)
+-->
